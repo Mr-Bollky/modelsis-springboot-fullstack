@@ -5,9 +5,7 @@
 
 Installer :
 
-•	Java Spring Boot 2.5.2 ou supérieur
-•	Postgres 14
-•	Lombok
+| Java Spring Boot 2.5.2 ou supérieur | Postgres 14 |	Lombok |
 
 
 
